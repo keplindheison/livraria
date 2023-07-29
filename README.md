@@ -53,6 +53,6 @@ WHERE uf_editora = "SP";
 ```
 SELECT nome_autor FROM livros
 WHERE sexo_autor = "M" 
-    AND uf_editora = "SP" 
-    OR uf_editora = "RJ";
+    AND (uf_editora = "SP" 
+    OR uf_editora = "RJ");
 ```
