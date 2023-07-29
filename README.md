@@ -27,6 +27,7 @@ A tabela de livros precisa dos seguintes atributos:
 
 
 Após a criação da tabela, deveremos entregar algumas queries prontas que sejam enviadas para o programador. As queries são as seguintes:
+
 1-	Trazer todos os dados.
 ```
 
